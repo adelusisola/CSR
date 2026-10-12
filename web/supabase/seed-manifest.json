@@ -1,0 +1,3452 @@
+{
+  "states": [
+    {
+      "code": "LA",
+      "name": "Lagos",
+      "is_fct": false
+    },
+    {
+      "code": "AB",
+      "name": "Abia",
+      "is_fct": false
+    },
+    {
+      "code": "AD",
+      "name": "Adamawa",
+      "is_fct": false
+    },
+    {
+      "code": "AK",
+      "name": "Akwa Ibom",
+      "is_fct": false
+    },
+    {
+      "code": "AN",
+      "name": "Anambra",
+      "is_fct": false
+    },
+    {
+      "code": "BA",
+      "name": "Bauchi",
+      "is_fct": false
+    },
+    {
+      "code": "BY",
+      "name": "Bayelsa",
+      "is_fct": false
+    },
+    {
+      "code": "BC",
+      "name": "Benue",
+      "is_fct": false
+    },
+    {
+      "code": "BO",
+      "name": "Borno",
+      "is_fct": false
+    },
+    {
+      "code": "CR",
+      "name": "Cross River",
+      "is_fct": false
+    },
+    {
+      "code": "DE",
+      "name": "Delta",
+      "is_fct": false
+    },
+    {
+      "code": "EB",
+      "name": "Ebonyi",
+      "is_fct": false
+    },
+    {
+      "code": "ED",
+      "name": "Edo",
+      "is_fct": false
+    },
+    {
+      "code": "EK",
+      "name": "Ekiti",
+      "is_fct": false
+    },
+    {
+      "code": "EN",
+      "name": "Enugu",
+      "is_fct": false
+    },
+    {
+      "code": "GO",
+      "name": "Gombe",
+      "is_fct": false
+    },
+    {
+      "code": "IM",
+      "name": "Imo",
+      "is_fct": false
+    },
+    {
+      "code": "JG",
+      "name": "Jigawa",
+      "is_fct": false
+    },
+    {
+      "code": "KD",
+      "name": "Kaduna",
+      "is_fct": false
+    },
+    {
+      "code": "KE",
+      "name": "Kano",
+      "is_fct": false
+    },
+    {
+      "code": "KH",
+      "name": "Katsina",
+      "is_fct": false
+    },
+    {
+      "code": "KI",
+      "name": "Kebbi",
+      "is_fct": false
+    },
+    {
+      "code": "KO",
+      "name": "Kogi",
+      "is_fct": false
+    },
+    {
+      "code": "KW",
+      "name": "Kwara",
+      "is_fct": false
+    },
+    {
+      "code": "NA",
+      "name": "Nasarawa",
+      "is_fct": false
+    },
+    {
+      "code": "NC",
+      "name": "Niger",
+      "is_fct": false
+    },
+    {
+      "code": "OG",
+      "name": "Ogun",
+      "is_fct": false
+    },
+    {
+      "code": "ON",
+      "name": "Ondo",
+      "is_fct": false
+    },
+    {
+      "code": "OS",
+      "name": "Osun",
+      "is_fct": false
+    },
+    {
+      "code": "OY",
+      "name": "Oyo",
+      "is_fct": false
+    },
+    {
+      "code": "PL",
+      "name": "Plateau",
+      "is_fct": false
+    },
+    {
+      "code": "RN",
+      "name": "Rivers",
+      "is_fct": false
+    },
+    {
+      "code": "SO",
+      "name": "Sokoto",
+      "is_fct": false
+    },
+    {
+      "code": "TA",
+      "name": "Taraba",
+      "is_fct": false
+    },
+    {
+      "code": "YO",
+      "name": "Yobe",
+      "is_fct": false
+    },
+    {
+      "code": "ZA",
+      "name": "Zamfara",
+      "is_fct": false
+    },
+    {
+      "code": "FC",
+      "name": "Federal Capital Territory",
+      "is_fct": true
+    }
+  ],
+  "lgas": [
+    {
+      "state_code": "LA",
+      "name": "Agege"
+    },
+    {
+      "state_code": "LA",
+      "name": "Ajeromi-Ifelodun"
+    },
+    {
+      "state_code": "LA",
+      "name": "Alimosho"
+    },
+    {
+      "state_code": "LA",
+      "name": "Amuwo-Odofin"
+    },
+    {
+      "state_code": "LA",
+      "name": "Apapa"
+    },
+    {
+      "state_code": "LA",
+      "name": "Badagry"
+    },
+    {
+      "state_code": "LA",
+      "name": "Epe"
+    },
+    {
+      "state_code": "LA",
+      "name": "Eti-Osa"
+    },
+    {
+      "state_code": "LA",
+      "name": "Ibeju-Lekki"
+    },
+    {
+      "state_code": "LA",
+      "name": "Ifako-Ijaiye"
+    },
+    {
+      "state_code": "LA",
+      "name": "Ikeja"
+    },
+    {
+      "state_code": "LA",
+      "name": "Ikorodu"
+    },
+    {
+      "state_code": "LA",
+      "name": "Kosofe"
+    },
+    {
+      "state_code": "LA",
+      "name": "Lagos Island"
+    },
+    {
+      "state_code": "LA",
+      "name": "Lagos Mainland"
+    },
+    {
+      "state_code": "LA",
+      "name": "Mushin"
+    },
+    {
+      "state_code": "LA",
+      "name": "Ojo"
+    },
+    {
+      "state_code": "LA",
+      "name": "Oshodi-Isolo"
+    },
+    {
+      "state_code": "LA",
+      "name": "Shomolu"
+    },
+    {
+      "state_code": "LA",
+      "name": "Surulere"
+    },
+    {
+      "state_code": "AB",
+      "name": "Aba North"
+    },
+    {
+      "state_code": "AB",
+      "name": "Aba South"
+    },
+    {
+      "state_code": "AB",
+      "name": "Arochukwu"
+    },
+    {
+      "state_code": "AB",
+      "name": "Bende"
+    },
+    {
+      "state_code": "AB",
+      "name": "Ikwuano"
+    },
+    {
+      "state_code": "AB",
+      "name": "Isiala Ngwa North"
+    },
+    {
+      "state_code": "AB",
+      "name": "Isiala Ngwa South"
+    },
+    {
+      "state_code": "AB",
+      "name": "Isiukwato"
+    },
+    {
+      "state_code": "AB",
+      "name": "Obi Ngwa"
+    },
+    {
+      "state_code": "AB",
+      "name": "Ohafia"
+    },
+    {
+      "state_code": "AB",
+      "name": "Osisioma"
+    },
+    {
+      "state_code": "AB",
+      "name": "Ugwunagbo"
+    },
+    {
+      "state_code": "AB",
+      "name": "Ukwa East"
+    },
+    {
+      "state_code": "AB",
+      "name": "Ukwa West"
+    },
+    {
+      "state_code": "AB",
+      "name": "Umuahia North"
+    },
+    {
+      "state_code": "AB",
+      "name": "Umuahia South"
+    },
+    {
+      "state_code": "AB",
+      "name": "Umu Nneochi"
+    },
+    {
+      "state_code": "AD",
+      "name": "Demsa"
+    },
+    {
+      "state_code": "AD",
+      "name": "Fufure"
+    },
+    {
+      "state_code": "AD",
+      "name": "Ganye"
+    },
+    {
+      "state_code": "AD",
+      "name": "Gayuk"
+    },
+    {
+      "state_code": "AD",
+      "name": "Gombi"
+    },
+    {
+      "state_code": "AD",
+      "name": "Grie"
+    },
+    {
+      "state_code": "AD",
+      "name": "Hong"
+    },
+    {
+      "state_code": "AD",
+      "name": "Jada"
+    },
+    {
+      "state_code": "AD",
+      "name": "Lamurde"
+    },
+    {
+      "state_code": "AD",
+      "name": "Madagali"
+    },
+    {
+      "state_code": "AD",
+      "name": "Maiha"
+    },
+    {
+      "state_code": "AD",
+      "name": "Mayo Belwa"
+    },
+    {
+      "state_code": "AD",
+      "name": "Michika"
+    },
+    {
+      "state_code": "AD",
+      "name": "Mubi North"
+    },
+    {
+      "state_code": "AD",
+      "name": "Mubi South"
+    },
+    {
+      "state_code": "AD",
+      "name": "Numan"
+    },
+    {
+      "state_code": "AD",
+      "name": "Shelleng"
+    },
+    {
+      "state_code": "AD",
+      "name": "Song"
+    },
+    {
+      "state_code": "AD",
+      "name": "Toungo"
+    },
+    {
+      "state_code": "AD",
+      "name": "Yola North"
+    },
+    {
+      "state_code": "AD",
+      "name": "Yola South"
+    },
+    {
+      "state_code": "AK",
+      "name": "Abak"
+    },
+    {
+      "state_code": "AK",
+      "name": "Eastern Obolo"
+    },
+    {
+      "state_code": "AK",
+      "name": "Eket"
+    },
+    {
+      "state_code": "AK",
+      "name": "Esit Eket"
+    },
+    {
+      "state_code": "AK",
+      "name": "Essien Udim"
+    },
+    {
+      "state_code": "AK",
+      "name": "Etim Ekpo"
+    },
+    {
+      "state_code": "AK",
+      "name": "Etinan"
+    },
+    {
+      "state_code": "AK",
+      "name": "Ibeno"
+    },
+    {
+      "state_code": "AK",
+      "name": "Ibesikpo Asutan"
+    },
+    {
+      "state_code": "AK",
+      "name": "Ibiono-Ibom"
+    },
+    {
+      "state_code": "AK",
+      "name": "Ika"
+    },
+    {
+      "state_code": "AK",
+      "name": "Ikono"
+    },
+    {
+      "state_code": "AK",
+      "name": "Ikot Abasi"
+    },
+    {
+      "state_code": "AK",
+      "name": "Ikot Ekpene"
+    },
+    {
+      "state_code": "AK",
+      "name": "Ini"
+    },
+    {
+      "state_code": "AK",
+      "name": "Itu"
+    },
+    {
+      "state_code": "AK",
+      "name": "Mbo"
+    },
+    {
+      "state_code": "AK",
+      "name": "Mkpat-Enin"
+    },
+    {
+      "state_code": "AK",
+      "name": "Nsit-Atai"
+    },
+    {
+      "state_code": "AK",
+      "name": "Nsit-Ibom"
+    },
+    {
+      "state_code": "AK",
+      "name": "Obot Akara"
+    },
+    {
+      "state_code": "AK",
+      "name": "Okobo"
+    },
+    {
+      "state_code": "AK",
+      "name": "Onna"
+    },
+    {
+      "state_code": "AK",
+      "name": "Oron"
+    },
+    {
+      "state_code": "AK",
+      "name": "Oruk Anam"
+    },
+    {
+      "state_code": "AK",
+      "name": "Udung-Uko"
+    },
+    {
+      "state_code": "AK",
+      "name": "Ukanafun"
+    },
+    {
+      "state_code": "AK",
+      "name": "Uruan"
+    },
+    {
+      "state_code": "AK",
+      "name": "Urue-Offong/Oruko"
+    },
+    {
+      "state_code": "AK",
+      "name": "Uyo"
+    },
+    {
+      "state_code": "AN",
+      "name": "Aguata"
+    },
+    {
+      "state_code": "AN",
+      "name": "Anambra East"
+    },
+    {
+      "state_code": "AN",
+      "name": "Anambra West"
+    },
+    {
+      "state_code": "AN",
+      "name": "Anaocha"
+    },
+    {
+      "state_code": "AN",
+      "name": "Awka North"
+    },
+    {
+      "state_code": "AN",
+      "name": "Awka South"
+    },
+    {
+      "state_code": "AN",
+      "name": "Ayamelum"
+    },
+    {
+      "state_code": "AN",
+      "name": "Dunukofia"
+    },
+    {
+      "state_code": "AN",
+      "name": "Ekwusigo"
+    },
+    {
+      "state_code": "AN",
+      "name": "Idemili North"
+    },
+    {
+      "state_code": "AN",
+      "name": "Idemili South"
+    },
+    {
+      "state_code": "AN",
+      "name": "Ihiala"
+    },
+    {
+      "state_code": "AN",
+      "name": "Njikoka"
+    },
+    {
+      "state_code": "AN",
+      "name": "Nnewi North"
+    },
+    {
+      "state_code": "AN",
+      "name": "Nnewi South"
+    },
+    {
+      "state_code": "AN",
+      "name": "Ogbaru"
+    },
+    {
+      "state_code": "AN",
+      "name": "Onyeka"
+    },
+    {
+      "state_code": "AN",
+      "name": "Oka"
+    },
+    {
+      "state_code": "BA",
+      "name": "Alkalai"
+    },
+    {
+      "state_code": "BA",
+      "name": "Ayu"
+    },
+    {
+      "state_code": "BA",
+      "name": "Baram"
+    },
+    {
+      "state_code": "BA",
+      "name": "Bogoro"
+    },
+    {
+      "state_code": "BA",
+      "name": "Darazo"
+    },
+    {
+      "state_code": "BA",
+      "name": "Dass"
+    },
+    {
+      "state_code": "BA",
+      "name": "Gamaji"
+    },
+    {
+      "state_code": "BA",
+      "name": "Garko"
+    },
+    {
+      "state_code": "BA",
+      "name": "Gbalo"
+    },
+    {
+      "state_code": "BA",
+      "name": "Giyo"
+    },
+    {
+      "state_code": "BA",
+      "name": "Gombe"
+    },
+    {
+      "state_code": "BA",
+      "name": "Gununu"
+    },
+    {
+      "state_code": "BA",
+      "name": "Itas/Gadau"
+    },
+    {
+      "state_code": "BA",
+      "name": "Jama'are"
+    },
+    {
+      "state_code": "BA",
+      "name": "Katagum"
+    },
+    {
+      "state_code": "BA",
+      "name": "Kirfi"
+    },
+    {
+      "state_code": "BA",
+      "name": "Misau"
+    },
+    {
+      "state_code": "BA",
+      "name": "Ningi"
+    },
+    {
+      "state_code": "BA",
+      "name": "Shira"
+    },
+    {
+      "state_code": "BA",
+      "name": "Tafan/Waka"
+    },
+    {
+      "state_code": "BA",
+      "name": "Tudun Wada"
+    },
+    {
+      "state_code": "BA",
+      "name": "Zaki"
+    },
+    {
+      "state_code": "BA",
+      "name": "Zangon Kataf"
+    },
+    {
+      "state_code": "BA",
+      "name": "Akko"
+    },
+    {
+      "state_code": "BY",
+      "name": "Brass"
+    },
+    {
+      "state_code": "BY",
+      "name": "Ekeremor"
+    },
+    {
+      "state_code": "BY",
+      "name": "Kolokuma/Opokuma"
+    },
+    {
+      "state_code": "BY",
+      "name": "Nembe"
+    },
+    {
+      "state_code": "BY",
+      "name": "Ogbia"
+    },
+    {
+      "state_code": "BY",
+      "name": "Sagbama"
+    },
+    {
+      "state_code": "BY",
+      "name": "Southern Ijaw"
+    },
+    {
+      "state_code": "BY",
+      "name": "Yenagoa"
+    },
+    {
+      "state_code": "BC",
+      "name": "Ado"
+    },
+    {
+      "state_code": "BC",
+      "name": "Agatu"
+    },
+    {
+      "state_code": "BC",
+      "name": "Apa"
+    },
+    {
+      "state_code": "BC",
+      "name": "Buruku"
+    },
+    {
+      "state_code": "BC",
+      "name": "Gboko"
+    },
+    {
+      "state_code": "BC",
+      "name": "Guma"
+    },
+    {
+      "state_code": "BC",
+      "name": "Gwer East"
+    },
+    {
+      "state_code": "BC",
+      "name": "Gwer West"
+    },
+    {
+      "state_code": "BC",
+      "name": "Katsina-Ala"
+    },
+    {
+      "state_code": "BC",
+      "name": "Konshisha"
+    },
+    {
+      "state_code": "BC",
+      "name": "Kwande"
+    },
+    {
+      "state_code": "BC",
+      "name": "Logo"
+    },
+    {
+      "state_code": "BC",
+      "name": "Makurdi"
+    },
+    {
+      "state_code": "BC",
+      "name": "Obi"
+    },
+    {
+      "state_code": "BC",
+      "name": "Ogbadibo"
+    },
+    {
+      "state_code": "BC",
+      "name": "Ohimini"
+    },
+    {
+      "state_code": "BC",
+      "name": "Oju"
+    },
+    {
+      "state_code": "BC",
+      "name": "Okpokwu"
+    },
+    {
+      "state_code": "BC",
+      "name": "Otukpo"
+    },
+    {
+      "state_code": "BC",
+      "name": "Spvda"
+    },
+    {
+      "state_code": "BC",
+      "name": "Tarka"
+    },
+    {
+      "state_code": "BC",
+      "name": "Ukum"
+    },
+    {
+      "state_code": "BC",
+      "name": "Ushongo"
+    },
+    {
+      "state_code": "BC",
+      "name": "Vandeikya"
+    },
+    {
+      "state_code": "BO",
+      "name": "Abadam"
+    },
+    {
+      "state_code": "BO",
+      "name": "Askira/Uba"
+    },
+    {
+      "state_code": "BO",
+      "name": "Bama"
+    },
+    {
+      "state_code": "BO",
+      "name": "Bayo"
+    },
+    {
+      "state_code": "BO",
+      "name": "Biu"
+    },
+    {
+      "state_code": "BO",
+      "name": "Chibok"
+    },
+    {
+      "state_code": "BO",
+      "name": "Damboa"
+    },
+    {
+      "state_code": "BO",
+      "name": "Dikwa"
+    },
+    {
+      "state_code": "BO",
+      "name": "Gubio"
+    },
+    {
+      "state_code": "BO",
+      "name": "Guzamala"
+    },
+    {
+      "state_code": "BO",
+      "name": "Gwoza"
+    },
+    {
+      "state_code": "BO",
+      "name": "Hawul"
+    },
+    {
+      "state_code": "BO",
+      "name": "Jere"
+    },
+    {
+      "state_code": "BO",
+      "name": "Kaga"
+    },
+    {
+      "state_code": "BO",
+      "name": "Kala/Balge"
+    },
+    {
+      "state_code": "BO",
+      "name": "Konduga"
+    },
+    {
+      "state_code": "BO",
+      "name": "Kukawa"
+    },
+    {
+      "state_code": "BO",
+      "name": "Kwaya Kusar"
+    },
+    {
+      "state_code": "BO",
+      "name": "Mafa"
+    },
+    {
+      "state_code": "BO",
+      "name": "Magumeri"
+    },
+    {
+      "state_code": "BO",
+      "name": "Maiduguri"
+    },
+    {
+      "state_code": "BO",
+      "name": "Marte"
+    },
+    {
+      "state_code": "BO",
+      "name": "Mobbar"
+    },
+    {
+      "state_code": "BO",
+      "name": "Monguno"
+    },
+    {
+      "state_code": "BO",
+      "name": "Ngala"
+    },
+    {
+      "state_code": "BO",
+      "name": "Nganzai"
+    },
+    {
+      "state_code": "BO",
+      "name": "Shani"
+    },
+    {
+      "state_code": "CR",
+      "name": "Abi"
+    },
+    {
+      "state_code": "CR",
+      "name": "Akamkpa"
+    },
+    {
+      "state_code": "CR",
+      "name": "Akpabuyo"
+    },
+    {
+      "state_code": "CR",
+      "name": "Bakassi"
+    },
+    {
+      "state_code": "CR",
+      "name": "Bekwarra"
+    },
+    {
+      "state_code": "CR",
+      "name": "Birom"
+    },
+    {
+      "state_code": "CR",
+      "name": "Calabar Municipal"
+    },
+    {
+      "state_code": "CR",
+      "name": "Calabar South"
+    },
+    {
+      "state_code": "CR",
+      "name": "Etung"
+    },
+    {
+      "state_code": "CR",
+      "name": "Ikom"
+    },
+    {
+      "state_code": "CR",
+      "name": "Obanliku"
+    },
+    {
+      "state_code": "CR",
+      "name": "Obubra"
+    },
+    {
+      "state_code": "CR",
+      "name": "Obudu"
+    },
+    {
+      "state_code": "CR",
+      "name": "Odukpani"
+    },
+    {
+      "state_code": "CR",
+      "name": "Ogoja"
+    },
+    {
+      "state_code": "CR",
+      "name": "Yakuur"
+    },
+    {
+      "state_code": "CR",
+      "name": "Yala"
+    },
+    {
+      "state_code": "DE",
+      "name": "Aniocha North"
+    },
+    {
+      "state_code": "DE",
+      "name": "Aniocha South"
+    },
+    {
+      "state_code": "DE",
+      "name": "Bomadi"
+    },
+    {
+      "state_code": "DE",
+      "name": "Burutu"
+    },
+    {
+      "state_code": "DE",
+      "name": "Ethiope East"
+    },
+    {
+      "state_code": "DE",
+      "name": "Ethiope West"
+    },
+    {
+      "state_code": "DE",
+      "name": "Ika North East"
+    },
+    {
+      "state_code": "DE",
+      "name": "Ika South"
+    },
+    {
+      "state_code": "DE",
+      "name": "Isoko North"
+    },
+    {
+      "state_code": "DE",
+      "name": "Isoko South"
+    },
+    {
+      "state_code": "DE",
+      "name": "Ndokwa East"
+    },
+    {
+      "state_code": "DE",
+      "name": "Ndokwa West"
+    },
+    {
+      "state_code": "DE",
+      "name": "Okpe"
+    },
+    {
+      "state_code": "DE",
+      "name": "Oshimili North"
+    },
+    {
+      "state_code": "DE",
+      "name": "Oshimili South"
+    },
+    {
+      "state_code": "DE",
+      "name": "Patani"
+    },
+    {
+      "state_code": "DE",
+      "name": "Sapele"
+    },
+    {
+      "state_code": "DE",
+      "name": "Udu"
+    },
+    {
+      "state_code": "DE",
+      "name": "Ughelli North"
+    },
+    {
+      "state_code": "DE",
+      "name": "Ughelli South"
+    },
+    {
+      "state_code": "DE",
+      "name": "Ukwuani"
+    },
+    {
+      "state_code": "DE",
+      "name": "Uwheru"
+    },
+    {
+      "state_code": "DE",
+      "name": "Warri North"
+    },
+    {
+      "state_code": "DE",
+      "name": "Warri South"
+    },
+    {
+      "state_code": "DE",
+      "name": "Warri South West"
+    },
+    {
+      "state_code": "EB",
+      "name": "Abakaliki"
+    },
+    {
+      "state_code": "EB",
+      "name": "Afikpo North"
+    },
+    {
+      "state_code": "EB",
+      "name": "Afikpo South"
+    },
+    {
+      "state_code": "EB",
+      "name": "Ebonyi"
+    },
+    {
+      "state_code": "EB",
+      "name": "Ezza North"
+    },
+    {
+      "state_code": "EB",
+      "name": "Ezza South"
+    },
+    {
+      "state_code": "EB",
+      "name": "Ikwo"
+    },
+    {
+      "state_code": "EB",
+      "name": "Ishielu"
+    },
+    {
+      "state_code": "EB",
+      "name": "Ivo"
+    },
+    {
+      "state_code": "EB",
+      "name": "Izzi"
+    },
+    {
+      "state_code": "EB",
+      "name": "Ohaozara"
+    },
+    {
+      "state_code": "EB",
+      "name": "Ohaukwu"
+    },
+    {
+      "state_code": "EB",
+      "name": "Onicha"
+    },
+    {
+      "state_code": "ED",
+      "name": "Akoko-Edo"
+    },
+    {
+      "state_code": "ED",
+      "name": "Egor"
+    },
+    {
+      "state_code": "ED",
+      "name": "Esan Central"
+    },
+    {
+      "state_code": "ED",
+      "name": "Esan North-East"
+    },
+    {
+      "state_code": "ED",
+      "name": "Esan South-East"
+    },
+    {
+      "state_code": "ED",
+      "name": "Esan West"
+    },
+    {
+      "state_code": "ED",
+      "name": "Etsako Central"
+    },
+    {
+      "state_code": "ED",
+      "name": "Etsako East"
+    },
+    {
+      "state_code": "ED",
+      "name": "Etsako West"
+    },
+    {
+      "state_code": "ED",
+      "name": "Igueben"
+    },
+    {
+      "state_code": "ED",
+      "name": "Ikpoba Okha"
+    },
+    {
+      "state_code": "ED",
+      "name": "Orhionmwon"
+    },
+    {
+      "state_code": "ED",
+      "name": "Oredo"
+    },
+    {
+      "state_code": "ED",
+      "name": "Ovia North-East"
+    },
+    {
+      "state_code": "ED",
+      "name": "Ovia South-West"
+    },
+    {
+      "state_code": "ED",
+      "name": "Owan East"
+    },
+    {
+      "state_code": "ED",
+      "name": "Owan West"
+    },
+    {
+      "state_code": "ED",
+      "name": "Uhunmwonde"
+    },
+    {
+      "state_code": "EK",
+      "name": "Ado Ekiti"
+    },
+    {
+      "state_code": "EK",
+      "name": "Efon"
+    },
+    {
+      "state_code": "EK",
+      "name": "Ekiti East"
+    },
+    {
+      "state_code": "EK",
+      "name": "Ekiti South-West"
+    },
+    {
+      "state_code": "EK",
+      "name": "Ekiti West"
+    },
+    {
+      "state_code": "EK",
+      "name": "Emure"
+    },
+    {
+      "state_code": "EK",
+      "name": "Gbonyin"
+    },
+    {
+      "state_code": "EK",
+      "name": "Ido Osi"
+    },
+    {
+      "state_code": "EK",
+      "name": "Ijero"
+    },
+    {
+      "state_code": "EK",
+      "name": "Ikere"
+    },
+    {
+      "state_code": "EK",
+      "name": "Ikole"
+    },
+    {
+      "state_code": "EK",
+      "name": "Ilejemeje"
+    },
+    {
+      "state_code": "EK",
+      "name": "Irepodun/Ifelodun"
+    },
+    {
+      "state_code": "EK",
+      "name": "Ise/Orun"
+    },
+    {
+      "state_code": "EK",
+      "name": "Moba"
+    },
+    {
+      "state_code": "EK",
+      "name": "Oye"
+    },
+    {
+      "state_code": "EN",
+      "name": "Aninri"
+    },
+    {
+      "state_code": "EN",
+      "name": "Awgu"
+    },
+    {
+      "state_code": "EN",
+      "name": "Enugu East"
+    },
+    {
+      "state_code": "EN",
+      "name": "Enugu North"
+    },
+    {
+      "state_code": "EN",
+      "name": "Enugu South"
+    },
+    {
+      "state_code": "EN",
+      "name": "Ezeagu"
+    },
+    {
+      "state_code": "EN",
+      "name": "Igbo Etiti"
+    },
+    {
+      "state_code": "EN",
+      "name": "Igbo Eze North"
+    },
+    {
+      "state_code": "EN",
+      "name": "Igbo Eze South"
+    },
+    {
+      "state_code": "EN",
+      "name": "Isi Uzo"
+    },
+    {
+      "state_code": "EN",
+      "name": "Nkanu East"
+    },
+    {
+      "state_code": "EN",
+      "name": "Nkanu West"
+    },
+    {
+      "state_code": "EN",
+      "name": "Nsukka"
+    },
+    {
+      "state_code": "EN",
+      "name": "Oji River"
+    },
+    {
+      "state_code": "EN",
+      "name": "Udenu"
+    },
+    {
+      "state_code": "EN",
+      "name": "Udi"
+    },
+    {
+      "state_code": "EN",
+      "name": "Uzo Uwani"
+    },
+    {
+      "state_code": "GO",
+      "name": "Akko"
+    },
+    {
+      "state_code": "GO",
+      "name": "Balanga"
+    },
+    {
+      "state_code": "GO",
+      "name": "Billiri"
+    },
+    {
+      "state_code": "GO",
+      "name": "Dukku"
+    },
+    {
+      "state_code": "GO",
+      "name": "Funakaye"
+    },
+    {
+      "state_code": "GO",
+      "name": "Gombe"
+    },
+    {
+      "state_code": "GO",
+      "name": "Kaltungo"
+    },
+    {
+      "state_code": "GO",
+      "name": "Kwami"
+    },
+    {
+      "state_code": "GO",
+      "name": "Nafada"
+    },
+    {
+      "state_code": "GO",
+      "name": "Shongom"
+    },
+    {
+      "state_code": "GO",
+      "name": "Yamaltu/Deba"
+    },
+    {
+      "state_code": "IM",
+      "name": "Aboh Mbaise"
+    },
+    {
+      "state_code": "IM",
+      "name": "Ahiazu Mbaise"
+    },
+    {
+      "state_code": "IM",
+      "name": "Ehime Mbano"
+    },
+    {
+      "state_code": "IM",
+      "name": "Ezinihitte"
+    },
+    {
+      "state_code": "IM",
+      "name": "Ideato North"
+    },
+    {
+      "state_code": "IM",
+      "name": "Ideato South"
+    },
+    {
+      "state_code": "IM",
+      "name": "Ihitte/Uboma"
+    },
+    {
+      "state_code": "IM",
+      "name": "Ikeduru"
+    },
+    {
+      "state_code": "IM",
+      "name": "Isiala Mbano"
+    },
+    {
+      "state_code": "IM",
+      "name": "Isu"
+    },
+    {
+      "state_code": "IM",
+      "name": "Mbaitoli"
+    },
+    {
+      "state_code": "IM",
+      "name": "Njaba"
+    },
+    {
+      "state_code": "IM",
+      "name": "Nkwerre"
+    },
+    {
+      "state_code": "IM",
+      "name": "Nwangele"
+    },
+    {
+      "state_code": "IM",
+      "name": "Obowo"
+    },
+    {
+      "state_code": "IM",
+      "name": "Oguta"
+    },
+    {
+      "state_code": "IM",
+      "name": "Ohaji/Egbema"
+    },
+    {
+      "state_code": "IM",
+      "name": "Okigwe"
+    },
+    {
+      "state_code": "IM",
+      "name": "Orlu"
+    },
+    {
+      "state_code": "IM",
+      "name": "Orsu"
+    },
+    {
+      "state_code": "IM",
+      "name": "Oru East"
+    },
+    {
+      "state_code": "IM",
+      "name": "Oru West"
+    },
+    {
+      "state_code": "IM",
+      "name": "Owerri Municipal"
+    },
+    {
+      "state_code": "IM",
+      "name": "Owerri North"
+    },
+    {
+      "state_code": "IM",
+      "name": "Owerri West"
+    },
+    {
+      "state_code": "JG",
+      "name": "Auyo"
+    },
+    {
+      "state_code": "JG",
+      "name": "Babura"
+    },
+    {
+      "state_code": "JG",
+      "name": "Biriniwa"
+    },
+    {
+      "state_code": "JG",
+      "name": "Birnin Kudu"
+    },
+    {
+      "state_code": "JG",
+      "name": "Buji"
+    },
+    {
+      "state_code": "JG",
+      "name": "Dutse"
+    },
+    {
+      "state_code": "JG",
+      "name": "Gagarawa"
+    },
+    {
+      "state_code": "JG",
+      "name": "Garki"
+    },
+    {
+      "state_code": "JG",
+      "name": "Gumel"
+    },
+    {
+      "state_code": "JG",
+      "name": "Guri"
+    },
+    {
+      "state_code": "JG",
+      "name": "Gwaram"
+    },
+    {
+      "state_code": "JG",
+      "name": "Gwiwa"
+    },
+    {
+      "state_code": "JG",
+      "name": "Hadejia"
+    },
+    {
+      "state_code": "JG",
+      "name": "Jahun"
+    },
+    {
+      "state_code": "JG",
+      "name": "Kaugama"
+    },
+    {
+      "state_code": "JG",
+      "name": "Kazaure"
+    },
+    {
+      "state_code": "JG",
+      "name": "Kiri Kasamma"
+    },
+    {
+      "state_code": "JG",
+      "name": "Maigatari"
+    },
+    {
+      "state_code": "JG",
+      "name": "Malam Madori"
+    },
+    {
+      "state_code": "JG",
+      "name": "Garka"
+    },
+    {
+      "state_code": "JG",
+      "name": "Ringim"
+    },
+    {
+      "state_code": "JG",
+      "name": "Roni"
+    },
+    {
+      "state_code": "JG",
+      "name": "Sule Tankarkar"
+    },
+    {
+      "state_code": "JG",
+      "name": "Taura"
+    },
+    {
+      "state_code": "JG",
+      "name": "Yankwadi"
+    },
+    {
+      "state_code": "KD",
+      "name": "Chikun"
+    },
+    {
+      "state_code": "KD",
+      "name": "Giwa"
+    },
+    {
+      "state_code": "KD",
+      "name": "Igabi"
+    },
+    {
+      "state_code": "KD",
+      "name": "Ikara"
+    },
+    {
+      "state_code": "KD",
+      "name": "Jaba"
+    },
+    {
+      "state_code": "KD",
+      "name": "Jema'a"
+    },
+    {
+      "state_code": "KD",
+      "name": "Kachia"
+    },
+    {
+      "state_code": "KD",
+      "name": "Kaduna North"
+    },
+    {
+      "state_code": "KD",
+      "name": "Kaduna South"
+    },
+    {
+      "state_code": "KD",
+      "name": "Kagarko"
+    },
+    {
+      "state_code": "KD",
+      "name": "Kajuru"
+    },
+    {
+      "state_code": "KD",
+      "name": "Kaura"
+    },
+    {
+      "state_code": "KD",
+      "name": "Kauru"
+    },
+    {
+      "state_code": "KD",
+      "name": "Kubau"
+    },
+    {
+      "state_code": "KD",
+      "name": "Kudan"
+    },
+    {
+      "state_code": "KD",
+      "name": "Lere"
+    },
+    {
+      "state_code": "KD",
+      "name": "Makarfi"
+    },
+    {
+      "state_code": "KD",
+      "name": "Sabon Gari"
+    },
+    {
+      "state_code": "KD",
+      "name": "Sanga"
+    },
+    {
+      "state_code": "KD",
+      "name": "Soba"
+    },
+    {
+      "state_code": "KD",
+      "name": "Zangon Kataf"
+    },
+    {
+      "state_code": "KD",
+      "name": "Zaria"
+    },
+    {
+      "state_code": "KE",
+      "name": "Ajingi"
+    },
+    {
+      "state_code": "KE",
+      "name": "Albasu"
+    },
+    {
+      "state_code": "KE",
+      "name": "Bagwai"
+    },
+    {
+      "state_code": "KE",
+      "name": "Bebeji"
+    },
+    {
+      "state_code": "KE",
+      "name": "Bichi"
+    },
+    {
+      "state_code": "KE",
+      "name": "Bunkure"
+    },
+    {
+      "state_code": "KE",
+      "name": "Dala"
+    },
+    {
+      "state_code": "KE",
+      "name": "Dambatta"
+    },
+    {
+      "state_code": "KE",
+      "name": "Dawakin Kudu"
+    },
+    {
+      "state_code": "KE",
+      "name": "Dawakin Tofa"
+    },
+    {
+      "state_code": "KE",
+      "name": "Doguwa"
+    },
+    {
+      "state_code": "KE",
+      "name": "Fagge"
+    },
+    {
+      "state_code": "KE",
+      "name": "Gabasawa"
+    },
+    {
+      "state_code": "KE",
+      "name": "Garko"
+    },
+    {
+      "state_code": "KE",
+      "name": "Garun Mallam"
+    },
+    {
+      "state_code": "KE",
+      "name": "Gaya"
+    },
+    {
+      "state_code": "KE",
+      "name": "Gezawa"
+    },
+    {
+      "state_code": "KE",
+      "name": "Gwale"
+    },
+    {
+      "state_code": "KE",
+      "name": "Gwarzo"
+    },
+    {
+      "state_code": "KE",
+      "name": "Kabo"
+    },
+    {
+      "state_code": "KE",
+      "name": "Kano Municipal"
+    },
+    {
+      "state_code": "KE",
+      "name": "Karaye"
+    },
+    {
+      "state_code": "KE",
+      "name": "Kibiya"
+    },
+    {
+      "state_code": "KE",
+      "name": "Kiru"
+    },
+    {
+      "state_code": "KE",
+      "name": "Kumbotso"
+    },
+    {
+      "state_code": "KE",
+      "name": "Kunchi"
+    },
+    {
+      "state_code": "KE",
+      "name": "Kura"
+    },
+    {
+      "state_code": "KE",
+      "name": "Madobi"
+    },
+    {
+      "state_code": "KE",
+      "name": "Makoda"
+    },
+    {
+      "state_code": "KE",
+      "name": "Minjibir"
+    },
+    {
+      "state_code": "KE",
+      "name": "Nasarawa"
+    },
+    {
+      "state_code": "KE",
+      "name": "Rano"
+    },
+    {
+      "state_code": "KE",
+      "name": "Rimin Gado"
+    },
+    {
+      "state_code": "KE",
+      "name": "Rogo"
+    },
+    {
+      "state_code": "KE",
+      "name": "Shanono"
+    },
+    {
+      "state_code": "KE",
+      "name": "Sumaila"
+    },
+    {
+      "state_code": "KE",
+      "name": "Takai"
+    },
+    {
+      "state_code": "KE",
+      "name": "Tarauni"
+    },
+    {
+      "state_code": "KE",
+      "name": "Tofa"
+    },
+    {
+      "state_code": "KE",
+      "name": "Ungogo"
+    },
+    {
+      "state_code": "KE",
+      "name": "Warawa"
+    },
+    {
+      "state_code": "KE",
+      "name": "Yakawo"
+    },
+    {
+      "state_code": "KE",
+      "name": "Yano"
+    },
+    {
+      "state_code": "KE",
+      "name": "Zaria"
+    },
+    {
+      "state_code": "KH",
+      "name": "Batsari"
+    },
+    {
+      "state_code": "KH",
+      "name": "Dan Mira"
+    },
+    {
+      "state_code": "KH",
+      "name": "Dandume"
+    },
+    {
+      "state_code": "KH",
+      "name": "Danja"
+    },
+    {
+      "state_code": "KH",
+      "name": "Daura"
+    },
+    {
+      "state_code": "KH",
+      "name": "Dutsi"
+    },
+    {
+      "state_code": "KH",
+      "name": "Dutsin Ma"
+    },
+    {
+      "state_code": "KH",
+      "name": "Faskari"
+    },
+    {
+      "state_code": "KH",
+      "name": "Funtua"
+    },
+    {
+      "state_code": "KH",
+      "name": "Ingawa"
+    },
+    {
+      "state_code": "KH",
+      "name": "Jibia"
+    },
+    {
+      "state_code": "KH",
+      "name": "Kafur"
+    },
+    {
+      "state_code": "KH",
+      "name": "Kaita"
+    },
+    {
+      "state_code": "KH",
+      "name": "Katsina"
+    },
+    {
+      "state_code": "KH",
+      "name": "Kurfa"
+    },
+    {
+      "state_code": "KH",
+      "name": "Malusa"
+    },
+    {
+      "state_code": "KH",
+      "name": "Mashi"
+    },
+    {
+      "state_code": "KH",
+      "name": "Meta"
+    },
+    {
+      "state_code": "KH",
+      "name": "Rimi"
+    },
+    {
+      "state_code": "KH",
+      "name": "Sabuwa"
+    },
+    {
+      "state_code": "KH",
+      "name": "Safana"
+    },
+    {
+      "state_code": "KH",
+      "name": "Sandamu"
+    },
+    {
+      "state_code": "KH",
+      "name": "Zango"
+    },
+    {
+      "state_code": "KI",
+      "name": "Aleme"
+    },
+    {
+      "state_code": "KI",
+      "name": "Arewa"
+    },
+    {
+      "state_code": "KI",
+      "name": "Argungu"
+    },
+    {
+      "state_code": "KI",
+      "name": "Augie"
+    },
+    {
+      "state_code": "KI",
+      "name": "Bagudo"
+    },
+    {
+      "state_code": "KI",
+      "name": "Birnin Kebbi"
+    },
+    {
+      "state_code": "KI",
+      "name": "Bunza"
+    },
+    {
+      "state_code": "KI",
+      "name": "Dandi"
+    },
+    {
+      "state_code": "KI",
+      "name": "Fakai"
+    },
+    {
+      "state_code": "KI",
+      "name": "Gwandu"
+    },
+    {
+      "state_code": "KI",
+      "name": "Jega"
+    },
+    {
+      "state_code": "KI",
+      "name": "Kalgo"
+    },
+    {
+      "state_code": "KI",
+      "name": "Koko/Besse"
+    },
+    {
+      "state_code": "KI",
+      "name": "Maiyama"
+    },
+    {
+      "state_code": "KI",
+      "name": "Ngaski"
+    },
+    {
+      "state_code": "KI",
+      "name": "Sakaba"
+    },
+    {
+      "state_code": "KI",
+      "name": "Shanga"
+    },
+    {
+      "state_code": "KI",
+      "name": "Suru"
+    },
+    {
+      "state_code": "KI",
+      "name": "Wasagu/Danko"
+    },
+    {
+      "state_code": "KI",
+      "name": "Yauri"
+    },
+    {
+      "state_code": "KI",
+      "name": "Zuru"
+    },
+    {
+      "state_code": "KO",
+      "name": "Adavi"
+    },
+    {
+      "state_code": "KO",
+      "name": "Ajaokuta"
+    },
+    {
+      "state_code": "KO",
+      "name": "Ankpa"
+    },
+    {
+      "state_code": "KO",
+      "name": "Bassa"
+    },
+    {
+      "state_code": "KO",
+      "name": "Dekina"
+    },
+    {
+      "state_code": "KO",
+      "name": "Ibaji"
+    },
+    {
+      "state_code": "KO",
+      "name": "Idah"
+    },
+    {
+      "state_code": "KO",
+      "name": "Igalamela Odolu"
+    },
+    {
+      "state_code": "KO",
+      "name": "Ijumu"
+    },
+    {
+      "state_code": "KO",
+      "name": "Kabba/Bunu"
+    },
+    {
+      "state_code": "KO",
+      "name": "Kogi"
+    },
+    {
+      "state_code": "KO",
+      "name": "Lokoja"
+    },
+    {
+      "state_code": "KO",
+      "name": "Mopa"
+    },
+    {
+      "state_code": "KO",
+      "name": "Ogi"
+    },
+    {
+      "state_code": "KO",
+      "name": "Okenne"
+    },
+    {
+      "state_code": "KO",
+      "name": "Okilany"
+    },
+    {
+      "state_code": "KO",
+      "name": "Okene"
+    },
+    {
+      "state_code": "KO",
+      "name": "Olamaboro"
+    },
+    {
+      "state_code": "KO",
+      "name": "Omala"
+    },
+    {
+      "state_code": "KO",
+      "name": "Yagba East"
+    },
+    {
+      "state_code": "KO",
+      "name": "Yagba West"
+    },
+    {
+      "state_code": "KW",
+      "name": "Asa"
+    },
+    {
+      "state_code": "KW",
+      "name": "Baruten"
+    },
+    {
+      "state_code": "KW",
+      "name": "Edu"
+    },
+    {
+      "state_code": "KW",
+      "name": "Ekiti"
+    },
+    {
+      "state_code": "KW",
+      "name": "Ifelodun"
+    },
+    {
+      "state_code": "KW",
+      "name": "Ilorin East"
+    },
+    {
+      "state_code": "KW",
+      "name": "Ilorin South"
+    },
+    {
+      "state_code": "KW",
+      "name": "Ilorin West"
+    },
+    {
+      "state_code": "KW",
+      "name": "Irepodun"
+    },
+    {
+      "state_code": "KW",
+      "name": "Isin"
+    },
+    {
+      "state_code": "KW",
+      "name": "Kaiama"
+    },
+    {
+      "state_code": "KW",
+      "name": "Mangle"
+    },
+    {
+      "state_code": "KW",
+      "name": "Marupa"
+    },
+    {
+      "state_code": "KW",
+      "name": "Mokwa"
+    },
+    {
+      "state_code": "KW",
+      "name": "Offa"
+    },
+    {
+      "state_code": "KW",
+      "name": "Oke Ero"
+    },
+    {
+      "state_code": "KW",
+      "name": "Oyun"
+    },
+    {
+      "state_code": "KW",
+      "name": "Pategi"
+    },
+    {
+      "state_code": "NA",
+      "name": "Akwanga"
+    },
+    {
+      "state_code": "NA",
+      "name": "Awe"
+    },
+    {
+      "state_code": "NA",
+      "name": "Doma"
+    },
+    {
+      "state_code": "NA",
+      "name": "Karu"
+    },
+    {
+      "state_code": "NA",
+      "name": "Keana"
+    },
+    {
+      "state_code": "NA",
+      "name": "Keffi"
+    },
+    {
+      "state_code": "NA",
+      "name": "Kokona"
+    },
+    {
+      "state_code": "NA",
+      "name": "Lafia"
+    },
+    {
+      "state_code": "NA",
+      "name": "Nasarawa"
+    },
+    {
+      "state_code": "NA",
+      "name": "Nasarawa Egon"
+    },
+    {
+      "state_code": "NA",
+      "name": "Obi"
+    },
+    {
+      "state_code": "NA",
+      "name": "Toto"
+    },
+    {
+      "state_code": "NA",
+      "name": "Wamba"
+    },
+    {
+      "state_code": "NC",
+      "name": "Agaie"
+    },
+    {
+      "state_code": "NC",
+      "name": "Agwara"
+    },
+    {
+      "state_code": "NC",
+      "name": "Bida"
+    },
+    {
+      "state_code": "NC",
+      "name": "Borgu"
+    },
+    {
+      "state_code": "NC",
+      "name": "Bosso"
+    },
+    {
+      "state_code": "NC",
+      "name": "Chanchaga"
+    },
+    {
+      "state_code": "NC",
+      "name": "Edati"
+    },
+    {
+      "state_code": "NC",
+      "name": "Gbako"
+    },
+    {
+      "state_code": "NC",
+      "name": "Gurara"
+    },
+    {
+      "state_code": "NC",
+      "name": "Katcha"
+    },
+    {
+      "state_code": "NC",
+      "name": "Kontagora"
+    },
+    {
+      "state_code": "NC",
+      "name": "Lapai"
+    },
+    {
+      "state_code": "NC",
+      "name": "Lavun"
+    },
+    {
+      "state_code": "NC",
+      "name": "Magama"
+    },
+    {
+      "state_code": "NC",
+      "name": "Mariga"
+    },
+    {
+      "state_code": "NC",
+      "name": "Mashe"
+    },
+    {
+      "state_code": "NC",
+      "name": "Mokwa"
+    },
+    {
+      "state_code": "NC",
+      "name": "Muya"
+    },
+    {
+      "state_code": "NC",
+      "name": "Paikoro"
+    },
+    {
+      "state_code": "NC",
+      "name": "Rafi"
+    },
+    {
+      "state_code": "NC",
+      "name": "Rijau"
+    },
+    {
+      "state_code": "NC",
+      "name": "Shiroro"
+    },
+    {
+      "state_code": "NC",
+      "name": "Suleja"
+    },
+    {
+      "state_code": "NC",
+      "name": "Tafa"
+    },
+    {
+      "state_code": "NC",
+      "name": "Wushishi"
+    },
+    {
+      "state_code": "OG",
+      "name": "Abeokuta North"
+    },
+    {
+      "state_code": "OG",
+      "name": "Abeokuta South"
+    },
+    {
+      "state_code": "OG",
+      "name": "Ado-Odo/Ota"
+    },
+    {
+      "state_code": "OG",
+      "name": "Egbado North"
+    },
+    {
+      "state_code": "OG",
+      "name": "Egbado South"
+    },
+    {
+      "state_code": "OG",
+      "name": "Ewekoro"
+    },
+    {
+      "state_code": "OG",
+      "name": "Ifo"
+    },
+    {
+      "state_code": "OG",
+      "name": "Ijebu East"
+    },
+    {
+      "state_code": "OG",
+      "name": "Ijebu North"
+    },
+    {
+      "state_code": "OG",
+      "name": "Ijebu North East"
+    },
+    {
+      "state_code": "OG",
+      "name": "Ijebu Ode"
+    },
+    {
+      "state_code": "OG",
+      "name": "Ikenne"
+    },
+    {
+      "state_code": "OG",
+      "name": "Imeko Afon"
+    },
+    {
+      "state_code": "OG",
+      "name": "Ipokia"
+    },
+    {
+      "state_code": "OG",
+      "name": "Obafumi Orientale"
+    },
+    {
+      "state_code": "OG",
+      "name": "Odeda"
+    },
+    {
+      "state_code": "OG",
+      "name": "Odogbolu"
+    },
+    {
+      "state_code": "OG",
+      "name": "Ogun Waterside"
+    },
+    {
+      "state_code": "OG",
+      "name": "Remo North"
+    },
+    {
+      "state_code": "OG",
+      "name": "Sagamu"
+    },
+    {
+      "state_code": "OG",
+      "name": "Shaki"
+    },
+    {
+      "state_code": "ON",
+      "name": "Akoko North-East"
+    },
+    {
+      "state_code": "ON",
+      "name": "Akoko North-West"
+    },
+    {
+      "state_code": "ON",
+      "name": "Akoko South-East"
+    },
+    {
+      "state_code": "ON",
+      "name": "Akoko South-West"
+    },
+    {
+      "state_code": "ON",
+      "name": "Akure North"
+    },
+    {
+      "state_code": "ON",
+      "name": "Akure South"
+    },
+    {
+      "state_code": "ON",
+      "name": "Ese Odo"
+    },
+    {
+      "state_code": "ON",
+      "name": "Idanre"
+    },
+    {
+      "state_code": "ON",
+      "name": "Ifedore"
+    },
+    {
+      "state_code": "ON",
+      "name": "Ilaje"
+    },
+    {
+      "state_code": "ON",
+      "name": "Ile Oluji/Okeigbo"
+    },
+    {
+      "state_code": "ON",
+      "name": "Irele"
+    },
+    {
+      "state_code": "ON",
+      "name": "Odigbo"
+    },
+    {
+      "state_code": "ON",
+      "name": "Okitipupa"
+    },
+    {
+      "state_code": "ON",
+      "name": "Ondo East"
+    },
+    {
+      "state_code": "ON",
+      "name": "Ondo West"
+    },
+    {
+      "state_code": "ON",
+      "name": "Ose"
+    },
+    {
+      "state_code": "ON",
+      "name": "Owo"
+    },
+    {
+      "state_code": "OS",
+      "name": "Aiyedade"
+    },
+    {
+      "state_code": "OS",
+      "name": "Aiyegunle"
+    },
+    {
+      "state_code": "OS",
+      "name": "Atakunmosa East"
+    },
+    {
+      "state_code": "OS",
+      "name": "Atakunmosa West"
+    },
+    {
+      "state_code": "OS",
+      "name": "Boluwaduro"
+    },
+    {
+      "state_code": "OS",
+      "name": "Boripe"
+    },
+    {
+      "state_code": "OS",
+      "name": "Ede North"
+    },
+    {
+      "state_code": "OS",
+      "name": "Ede South"
+    },
+    {
+      "state_code": "OS",
+      "name": "Egbedore"
+    },
+    {
+      "state_code": "OS",
+      "name": "Ejigbo"
+    },
+    {
+      "state_code": "OS",
+      "name": "Ife Central"
+    },
+    {
+      "state_code": "OS",
+      "name": "Ife East"
+    },
+    {
+      "state_code": "OS",
+      "name": "Ife North"
+    },
+    {
+      "state_code": "OS",
+      "name": "Ife South"
+    },
+    {
+      "state_code": "OS",
+      "name": "Ifedayo"
+    },
+    {
+      "state_code": "OS",
+      "name": "Ifelodun"
+    },
+    {
+      "state_code": "OS",
+      "name": "Ila"
+    },
+    {
+      "state_code": "OS",
+      "name": "Ilesa East"
+    },
+    {
+      "state_code": "OS",
+      "name": "Ilesa West"
+    },
+    {
+      "state_code": "OS",
+      "name": "Irepodun"
+    },
+    {
+      "state_code": "OS",
+      "name": "Irewole"
+    },
+    {
+      "state_code": "OS",
+      "name": "Isokan"
+    },
+    {
+      "state_code": "OS",
+      "name": "Iwo"
+    },
+    {
+      "state_code": "OS",
+      "name": "Obokun"
+    },
+    {
+      "state_code": "OS",
+      "name": "Odo Otin"
+    },
+    {
+      "state_code": "OS",
+      "name": "Ola Oluwa"
+    },
+    {
+      "state_code": "OS",
+      "name": "Olorunda"
+    },
+    {
+      "state_code": "OS",
+      "name": "Oriade"
+    },
+    {
+      "state_code": "OS",
+      "name": "Orolu"
+    },
+    {
+      "state_code": "OS",
+      "name": "Osogbo"
+    },
+    {
+      "state_code": "OY",
+      "name": "Afijio"
+    },
+    {
+      "state_code": "OY",
+      "name": "Akinyele"
+    },
+    {
+      "state_code": "OY",
+      "name": "Atiba"
+    },
+    {
+      "state_code": "OY",
+      "name": "Atisbo"
+    },
+    {
+      "state_code": "OY",
+      "name": "Egbeda"
+    },
+    {
+      "state_code": "OY",
+      "name": "Ibadan North"
+    },
+    {
+      "state_code": "OY",
+      "name": "Ibadan North-East"
+    },
+    {
+      "state_code": "OY",
+      "name": "Ibadan North-West"
+    },
+    {
+      "state_code": "OY",
+      "name": "Ibadan South-East"
+    },
+    {
+      "state_code": "OY",
+      "name": "Ibadan South-West"
+    },
+    {
+      "state_code": "OY",
+      "name": "Ibarapa Central"
+    },
+    {
+      "state_code": "OY",
+      "name": "Ibarapa East"
+    },
+    {
+      "state_code": "OY",
+      "name": "Ibarapa North"
+    },
+    {
+      "state_code": "OY",
+      "name": "Ido"
+    },
+    {
+      "state_code": "OY",
+      "name": "Irepo"
+    },
+    {
+      "state_code": "OY",
+      "name": "Iseyin"
+    },
+    {
+      "state_code": "OY",
+      "name": "Itesiwaju"
+    },
+    {
+      "state_code": "OY",
+      "name": "Iwajin"
+    },
+    {
+      "state_code": "OY",
+      "name": "Iwo"
+    },
+    {
+      "state_code": "OY",
+      "name": "Kajola"
+    },
+    {
+      "state_code": "OY",
+      "name": "Ogbomosho North"
+    },
+    {
+      "state_code": "OY",
+      "name": "Ogbomosho South"
+    },
+    {
+      "state_code": "OY",
+      "name": "Ogo Oluwa"
+    },
+    {
+      "state_code": "OY",
+      "name": "Olorunsogo"
+    },
+    {
+      "state_code": "OY",
+      "name": "Oluyole"
+    },
+    {
+      "state_code": "OY",
+      "name": "Ona Ara"
+    },
+    {
+      "state_code": "OY",
+      "name": "Orelope"
+    },
+    {
+      "state_code": "OY",
+      "name": "Ori Ire"
+    },
+    {
+      "state_code": "OY",
+      "name": "Oyo East"
+    },
+    {
+      "state_code": "OY",
+      "name": "Oyo West"
+    },
+    {
+      "state_code": "OY",
+      "name": "Saki East"
+    },
+    {
+      "state_code": "OY",
+      "name": "Saki West"
+    },
+    {
+      "state_code": "OY",
+      "name": "Surulere"
+    },
+    {
+      "state_code": "PL",
+      "name": "Barkin Ladi"
+    },
+    {
+      "state_code": "PL",
+      "name": "Bassa"
+    },
+    {
+      "state_code": "PL",
+      "name": "Bokkos"
+    },
+    {
+      "state_code": "PL",
+      "name": "Jos East"
+    },
+    {
+      "state_code": "PL",
+      "name": "Jos North"
+    },
+    {
+      "state_code": "PL",
+      "name": "Jos South"
+    },
+    {
+      "state_code": "PL",
+      "name": "Kanam"
+    },
+    {
+      "state_code": "PL",
+      "name": "Kanke"
+    },
+    {
+      "state_code": "PL",
+      "name": "Langtang North"
+    },
+    {
+      "state_code": "PL",
+      "name": "Langtang South"
+    },
+    {
+      "state_code": "PL",
+      "name": "Mangu"
+    },
+    {
+      "state_code": "PL",
+      "name": "Miango"
+    },
+    {
+      "state_code": "PL",
+      "name": "Mpoma"
+    },
+    {
+      "state_code": "PL",
+      "name": "Pankshin"
+    },
+    {
+      "state_code": "PL",
+      "name": "Qua Pan"
+    },
+    {
+      "state_code": "PL",
+      "name": "Rukubi"
+    },
+    {
+      "state_code": "PL",
+      "name": "Shendam"
+    },
+    {
+      "state_code": "PL",
+      "name": "Wase"
+    },
+    {
+      "state_code": "RN",
+      "name": "Abua/Odual"
+    },
+    {
+      "state_code": "RN",
+      "name": "Ahoada East"
+    },
+    {
+      "state_code": "RN",
+      "name": "Ahoada West"
+    },
+    {
+      "state_code": "RN",
+      "name": "Akuku-Toru"
+    },
+    {
+      "state_code": "RN",
+      "name": "Andoni"
+    },
+    {
+      "state_code": "RN",
+      "name": "Asari-Toru"
+    },
+    {
+      "state_code": "RN",
+      "name": "Bonny"
+    },
+    {
+      "state_code": "RN",
+      "name": "Degema"
+    },
+    {
+      "state_code": "RN",
+      "name": "Eleme"
+    },
+    {
+      "state_code": "RN",
+      "name": "Emuoha"
+    },
+    {
+      "state_code": "RN",
+      "name": "Etche"
+    },
+    {
+      "state_code": "RN",
+      "name": "Gokana"
+    },
+    {
+      "state_code": "RN",
+      "name": "Ikwerre"
+    },
+    {
+      "state_code": "RN",
+      "name": "Khana"
+    },
+    {
+      "state_code": "RN",
+      "name": "Obio/Akpor"
+    },
+    {
+      "state_code": "RN",
+      "name": "Ogba-Egbema-Ndoni"
+    },
+    {
+      "state_code": "RN",
+      "name": "Ogu/Ben"
+    },
+    {
+      "state_code": "RN",
+      "name": "Okrika"
+    },
+    {
+      "state_code": "RN",
+      "name": "Omuma"
+    },
+    {
+      "state_code": "RN",
+      "name": "Opobo/Nkoro"
+    },
+    {
+      "state_code": "RN",
+      "name": "Oyigbo"
+    },
+    {
+      "state_code": "RN",
+      "name": "Port Harcourt"
+    },
+    {
+      "state_code": "RN",
+      "name": "Tai"
+    },
+    {
+      "state_code": "SO",
+      "name": "Bin Kalifa"
+    },
+    {
+      "state_code": "SO",
+      "name": "Bodinga"
+    },
+    {
+      "state_code": "SO",
+      "name": "Dange Shuni"
+    },
+    {
+      "state_code": "SO",
+      "name": "Gada"
+    },
+    {
+      "state_code": "SO",
+      "name": "Goronyo"
+    },
+    {
+      "state_code": "SO",
+      "name": "Gudu"
+    },
+    {
+      "state_code": "SO",
+      "name": "Gwadabawa"
+    },
+    {
+      "state_code": "SO",
+      "name": "Illela"
+    },
+    {
+      "state_code": "SO",
+      "name": "Isa"
+    },
+    {
+      "state_code": "SO",
+      "name": "Kebbe"
+    },
+    {
+      "state_code": "SO",
+      "name": "Kware"
+    },
+    {
+      "state_code": "SO",
+      "name": "Rabah"
+    },
+    {
+      "state_code": "SO",
+      "name": "Sabon Birni"
+    },
+    {
+      "state_code": "SO",
+      "name": "Shagari"
+    },
+    {
+      "state_code": "SO",
+      "name": "Silame"
+    },
+    {
+      "state_code": "SO",
+      "name": "Sokoto North"
+    },
+    {
+      "state_code": "SO",
+      "name": "Sokoto South"
+    },
+    {
+      "state_code": "SO",
+      "name": "Tambuwal"
+    },
+    {
+      "state_code": "SO",
+      "name": "Tangaza"
+    },
+    {
+      "state_code": "SO",
+      "name": "Tureta"
+    },
+    {
+      "state_code": "SO",
+      "name": "Wamako"
+    },
+    {
+      "state_code": "SO",
+      "name": "Wurno"
+    },
+    {
+      "state_code": "SO",
+      "name": "Yabo"
+    },
+    {
+      "state_code": "TA",
+      "name": "Ardo Kola"
+    },
+    {
+      "state_code": "TA",
+      "name": "Bali"
+    },
+    {
+      "state_code": "TA",
+      "name": "Donga"
+    },
+    {
+      "state_code": "TA",
+      "name": "Gashaka"
+    },
+    {
+      "state_code": "TA",
+      "name": "Gassol"
+    },
+    {
+      "state_code": "TA",
+      "name": "Ibi"
+    },
+    {
+      "state_code": "TA",
+      "name": "Jalingo"
+    },
+    {
+      "state_code": "TA",
+      "name": "Karim Lamido"
+    },
+    {
+      "state_code": "TA",
+      "name": "Kumi"
+    },
+    {
+      "state_code": "TA",
+      "name": "Lau"
+    },
+    {
+      "state_code": "TA",
+      "name": "Sardauna"
+    },
+    {
+      "state_code": "TA",
+      "name": "Takum"
+    },
+    {
+      "state_code": "TA",
+      "name": "Ussa"
+    },
+    {
+      "state_code": "TA",
+      "name": "Wukari"
+    },
+    {
+      "state_code": "TA",
+      "name": "Yorro"
+    },
+    {
+      "state_code": "TA",
+      "name": "Zing"
+    },
+    {
+      "state_code": "YO",
+      "name": "Bade"
+    },
+    {
+      "state_code": "YO",
+      "name": "Bursari"
+    },
+    {
+      "state_code": "YO",
+      "name": "Damaturu"
+    },
+    {
+      "state_code": "YO",
+      "name": "Fika"
+    },
+    {
+      "state_code": "YO",
+      "name": "Fune"
+    },
+    {
+      "state_code": "YO",
+      "name": "Geidam"
+    },
+    {
+      "state_code": "YO",
+      "name": "Gujba"
+    },
+    {
+      "state_code": "YO",
+      "name": "Gulma"
+    },
+    {
+      "state_code": "YO",
+      "name": "Jakusko"
+    },
+    {
+      "state_code": "YO",
+      "name": "Karasuwa"
+    },
+    {
+      "state_code": "YO",
+      "name": "Machina"
+    },
+    {
+      "state_code": "YO",
+      "name": "Nangere"
+    },
+    {
+      "state_code": "YO",
+      "name": "Nguru"
+    },
+    {
+      "state_code": "YO",
+      "name": "Potiskum"
+    },
+    {
+      "state_code": "YO",
+      "name": "Tarmuwa"
+    },
+    {
+      "state_code": "YO",
+      "name": "Yunusari"
+    },
+    {
+      "state_code": "YO",
+      "name": "Yusufari"
+    },
+    {
+      "state_code": "ZA",
+      "name": "Anka"
+    },
+    {
+      "state_code": "ZA",
+      "name": "Bakura"
+    },
+    {
+      "state_code": "ZA",
+      "name": "Birnin Magaji/Kiyaw"
+    },
+    {
+      "state_code": "ZA",
+      "name": "Bukkuyum"
+    },
+    {
+      "state_code": "ZA",
+      "name": "Bungudu"
+    },
+    {
+      "state_code": "ZA",
+      "name": "Gummi"
+    },
+    {
+      "state_code": "ZA",
+      "name": "Gusau"
+    },
+    {
+      "state_code": "ZA",
+      "name": "Kaura Namoda"
+    },
+    {
+      "state_code": "ZA",
+      "name": "Maradun"
+    },
+    {
+      "state_code": "ZA",
+      "name": "Maru"
+    },
+    {
+      "state_code": "ZA",
+      "name": "Shinkafi"
+    },
+    {
+      "state_code": "ZA",
+      "name": "Talata Mafara"
+    },
+    {
+      "state_code": "ZA",
+      "name": "Chafe"
+    },
+    {
+      "state_code": "ZA",
+      "name": "Zurmi"
+    },
+    {
+      "state_code": "FC",
+      "name": "Abaji"
+    },
+    {
+      "state_code": "FC",
+      "name": "Bwari"
+    },
+    {
+      "state_code": "FC",
+      "name": "Gwagwalada"
+    },
+    {
+      "state_code": "FC",
+      "name": "Kuje"
+    },
+    {
+      "state_code": "FC",
+      "name": "Kwali"
+    },
+    {
+      "state_code": "FC",
+      "name": "Municipal Area Council"
+    }
+  ],
+  "match_adjacency": [
+    {
+      "sector_a": "Education",
+      "sector_b": "Youth Empowerment & Skills"
+    },
+    {
+      "sector_a": "Youth Empowerment & Skills",
+      "sector_b": "Education"
+    },
+    {
+      "sector_a": "Education",
+      "sector_b": "Women & Girls"
+    },
+    {
+      "sector_a": "Women & Girls",
+      "sector_b": "Education"
+    },
+    {
+      "sector_a": "Education",
+      "sector_b": "Disability Inclusion"
+    },
+    {
+      "sector_a": "Disability Inclusion",
+      "sector_b": "Education"
+    },
+    {
+      "sector_a": "Education",
+      "sector_b": "Arts, Culture & Heritage"
+    },
+    {
+      "sector_a": "Arts, Culture & Heritage",
+      "sector_b": "Education"
+    },
+    {
+      "sector_a": "Health",
+      "sector_b": "Water & Sanitation"
+    },
+    {
+      "sector_a": "Water & Sanitation",
+      "sector_b": "Health"
+    },
+    {
+      "sector_a": "Health",
+      "sector_b": "Food Security & Agriculture"
+    },
+    {
+      "sector_a": "Food Security & Agriculture",
+      "sector_b": "Health"
+    },
+    {
+      "sector_a": "Health",
+      "sector_b": "Women & Girls"
+    },
+    {
+      "sector_a": "Women & Girls",
+      "sector_b": "Health"
+    },
+    {
+      "sector_a": "Health",
+      "sector_b": "Community Safety"
+    },
+    {
+      "sector_a": "Community Safety",
+      "sector_b": "Health"
+    },
+    {
+      "sector_a": "Water & Sanitation",
+      "sector_b": "Environment & Climate"
+    },
+    {
+      "sector_a": "Environment & Climate",
+      "sector_b": "Water & Sanitation"
+    },
+    {
+      "sector_a": "Water & Sanitation",
+      "sector_b": "Food Security & Agriculture"
+    },
+    {
+      "sector_a": "Food Security & Agriculture",
+      "sector_b": "Water & Sanitation"
+    },
+    {
+      "sector_a": "Food Security & Agriculture",
+      "sector_b": "Environment & Climate"
+    },
+    {
+      "sector_a": "Environment & Climate",
+      "sector_b": "Food Security & Agriculture"
+    },
+    {
+      "sector_a": "Youth Empowerment & Skills",
+      "sector_b": "Community Safety"
+    },
+    {
+      "sector_a": "Community Safety",
+      "sector_b": "Youth Empowerment & Skills"
+    },
+    {
+      "sector_a": "Youth Empowerment & Skills",
+      "sector_b": "Environment & Climate"
+    },
+    {
+      "sector_a": "Environment & Climate",
+      "sector_b": "Youth Empowerment & Skills"
+    },
+    {
+      "sector_a": "Women & Girls",
+      "sector_b": "Youth Empowerment & Skills"
+    },
+    {
+      "sector_a": "Youth Empowerment & Skills",
+      "sector_b": "Women & Girls"
+    },
+    {
+      "sector_a": "Women & Girls",
+      "sector_b": "Food Security & Agriculture"
+    },
+    {
+      "sector_a": "Food Security & Agriculture",
+      "sector_b": "Women & Girls"
+    },
+    {
+      "sector_a": "Disability Inclusion",
+      "sector_b": "Health"
+    },
+    {
+      "sector_a": "Health",
+      "sector_b": "Disability Inclusion"
+    },
+    {
+      "sector_a": "Disability Inclusion",
+      "sector_b": "Youth Empowerment & Skills"
+    },
+    {
+      "sector_a": "Youth Empowerment & Skills",
+      "sector_b": "Disability Inclusion"
+    },
+    {
+      "sector_a": "Community Safety",
+      "sector_b": "Environment & Climate"
+    },
+    {
+      "sector_a": "Environment & Climate",
+      "sector_b": "Community Safety"
+    },
+    {
+      "sector_a": "Arts, Culture & Heritage",
+      "sector_b": "Youth Empowerment & Skills"
+    },
+    {
+      "sector_a": "Youth Empowerment & Skills",
+      "sector_b": "Arts, Culture & Heritage"
+    }
+  ],
+  "organizations": [
+    {
+      "legal_name": "Bright Futures Education Trust",
+      "display_name": "Bright Futures",
+      "cac_number": "RC-1284503",
+      "sectors": [
+        "Education",
+        "Youth Empowerment & Skills"
+      ],
+      "hq_state": "LA",
+      "type": "ngo"
+    },
+    {
+      "legal_name": "Clean Water Initiative Nigeria",
+      "display_name": "CleanWater NG",
+      "cac_number": "RC-9872110",
+      "sectors": [
+        "Water & Sanitation",
+        "Health"
+      ],
+      "hq_state": "AB",
+      "type": "ngo"
+    },
+    {
+      "legal_name": "Green Sahel Farmers Collective",
+      "display_name": "Green Sahel",
+      "cac_number": "RC-5512098",
+      "sectors": [
+        "Food Security & Agriculture",
+        "Environment & Climate"
+      ],
+      "hq_state": "KD",
+      "type": "ngo"
+    },
+    {
+      "legal_name": "Meridian Bank Plc",
+      "display_name": "Meridian Bank",
+      "sectors": [
+        "Education",
+        "Health"
+      ],
+      "hq_state": "LA",
+      "type": "company"
+    },
+    {
+      "legal_name": "Delta Energy Holdings Ltd",
+      "display_name": "Delta Energy",
+      "sectors": [
+        "Environment & Climate",
+        "Youth Empowerment & Skills"
+      ],
+      "hq_state": "DE",
+      "type": "company"
+    }
+  ],
+  "admin": {
+    "email": "ops@jikota.ng",
+    "role": "admin"
+  }
+}
